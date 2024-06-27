@@ -40,5 +40,5 @@ build/
 .idea
 .mvn
 *mvnw
-.cmd
-.xml
+*.cmd
+*.xml
