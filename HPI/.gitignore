@@ -41,4 +41,3 @@ build/
 .mvn
 *mvnw
 *.cmd
-*.xml
